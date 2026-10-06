@@ -14,7 +14,7 @@
   <strong>Software, analytical systems, and operating ventures.</strong>
 </p>
 
-Masters Enterprises develops and operates a portfolio of software products, specialist services, and ventures. Our work combines technical development, structured analysis, and practical implementation across decision intelligence, professional services, property technology, motorsport, and aviation.
+Masters Enterprises develops and operates a portfolio of software products, specialist services, and ventures. Our work combines technical development, structured analysis, and practical implementation across decision intelligence, professional services, property technology and motorsport.
 
 ## Portfolio
 
@@ -24,7 +24,6 @@ Masters Enterprises develops and operates a portfolio of software products, spec
 | Consulting & research | **Masters Advanced Solutions** |
 | Software & platforms | **Fold · Surefolio · Tenstead · Prospatio** |
 | Motorsport | **OSL Racing** |
-| Aviation | **Vantage Global Aviation** |
 
 Most repositories in this organization are private and contain proprietary product code, internal infrastructure, or operating documentation.
 
